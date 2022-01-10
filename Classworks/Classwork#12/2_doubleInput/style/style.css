@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(163, 255, 235);
+  font-size: 22px;
+  padding: 10px;
+}
+
+input {
+  width: 50%;
+  font-size: 25px;
+  margin: 7px;
+}
